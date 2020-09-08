@@ -1,0 +1,11 @@
+.gurpreet{
+    text-align: center;
+    background-color: silver;
+    color: rgb(21, 108, 190);
+}
+.img{
+    height: 200px;
+    width: 200px;
+    border: solid rgb(184, 167, 16) 5px;
+    border-radius: 10px;
+}
