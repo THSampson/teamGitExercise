@@ -9,3 +9,19 @@ ul li {
      height: 300px;
 
  }
+
+#kevin {
+    background-color: bisque;
+    color: teal;
+}
+
+#kevin img {
+   height: 375px;
+   width: 325px;
+}
+
+#kevin p {
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 5vw
+}
+
