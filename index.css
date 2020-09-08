@@ -1,3 +1,4 @@
+
 .gurpreet{
     text-align: center;
     background-color: silver;
@@ -9,3 +10,32 @@
     border: solid rgb(184, 167, 16) 5px;
     border-radius: 10px;
 }
+
+ul li { 
+    list-style-type: none;
+ }
+ .why {
+     color: green;
+ }
+
+ img {
+     height: 300px;
+
+ }
+
+#kevin {
+    background-color: bisque;
+    color: teal;
+}
+
+#kevin img {
+   height: 375px;
+   width: 325px;
+}
+
+#kevin p {
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 5vw
+}
+
+
